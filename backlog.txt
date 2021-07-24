@@ -1,0 +1,5 @@
+* create consol menu (enums with loop)
+* Menu:  Add  Remove Show Sort use ArrayList, Set or Map
+*create clasess BMW, Mercedes with methods setBrand/getBrand, stModels/getModels, create inteface Alarm and two defoult methods with text
+(turnAlarmOn, turnAlarmOff).
+*Create interface  Vehicle and methods getBrand, slowDown, speedUp. Create class Car and implements these methods from Vehicle and Alarm.
