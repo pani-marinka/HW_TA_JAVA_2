@@ -14,5 +14,5 @@ public interface Alarm {
         return "Alarm Off";
     }
 
-    ;
+    //test
 }
